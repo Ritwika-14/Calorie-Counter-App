@@ -1,10 +1,11 @@
 # Calorie-Counter-App
+https://ritwika-14.github.io/Calorie-Counter-App/
 This is a calorie counter app implemented using HTML, CSS, and JavaScript. It allows users to track their daily calorie intake and provides a simple interface to add and remove food items along with their calorie values.
 
 ## Features
 
--**Cal count increase**: Clicking the "+" button increases the counter value by one.
--**Cal count save**: Clicking the "Reset" button sets the counter value back to zero.
+-**Cal increament**: Clicking the "+" button increases the counter value by one.
+-**Lat cal save**: Clicking the this button sets the counter value back to zero and saves the previous.
 
 ## Getting Started
 
