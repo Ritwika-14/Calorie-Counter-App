@@ -1,6 +1,9 @@
 body {
     background-image: url("food2.jpg");
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    background-attachment: fixed; 
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     height: 100vh;
